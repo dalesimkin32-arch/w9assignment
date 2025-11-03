@@ -21,6 +21,9 @@ export default function NavBar() {
         <Link href="/" className="hover:font-bold transition-colors">
           Home
         </Link>
+        <Link href="/users" className="hover:font-bold transition-colors">
+          Users
+        </Link>
         <Link href="/posts" className="hover:font-bold transition-colors">
           Posts
         </Link>
