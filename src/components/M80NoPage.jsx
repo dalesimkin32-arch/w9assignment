@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function Custom404() {
+export default function M80NoPage() {
   return (
     <div className="w-screen h-screen relative bg-gray-800 opacity-80">
       <div
